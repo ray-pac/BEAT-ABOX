@@ -2222,4 +2222,10 @@ section,
   cursor: pointer;
 }
 
+.chat-btn {
+  font-weight: 600;
+  color: #2a3d4f;
+}
+
+
 
